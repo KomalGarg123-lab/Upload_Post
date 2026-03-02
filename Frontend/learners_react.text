@@ -1,0 +1,12 @@
+to use react we do==>
+1> cd Frontend
+2> npm create vite@latest .
+3> y
+4> react
+5> javascript
+6> No
+7> Yes
+
+
+--> we have to write npm install axios for integration 
+and npm i cors to help frontend to fetch from backend

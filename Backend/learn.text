@@ -1,0 +1,6 @@
+we use diffn middleware while using form in place of raw :
+in place of appp.use(express.json) we use multer
+first we write in terminal : npm i multer
+then const multer = require('multer')
+and 
+const uplaod = multer({storage:multer.memoryStorage()})
